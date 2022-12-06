@@ -1,0 +1,9 @@
+.style {
+  margin: 50px;
+  display: flex;
+  font-size: larger;
+  font-weight: 700;
+}
+.space {
+  margin: 10px;
+}
